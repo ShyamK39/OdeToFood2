@@ -9,7 +9,7 @@ you will find a Web API Client using JQuery that displays the tables from a Cont
 
 The app is located at
 
-<code>[/Restaurants](/Restaurants)</code>
+<code>/Restaurants</code>
 
 which is on the links at the top
 
